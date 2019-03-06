@@ -19,4 +19,9 @@ public class SwitchScene : MonoBehaviour
     {
         SceneManager.LoadScene("ContentsScene2");
     }
+
+    public void SwitchContentsScene3()
+    {
+        SceneManager.LoadScene("ContentsScene3");
+    }
 }
